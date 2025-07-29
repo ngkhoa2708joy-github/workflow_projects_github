@@ -47,7 +47,9 @@ build:
         python-version: '3.11'
     - run: pip install -r requirements.txt
     - run: pytest
+```
 
+## 6. Triển khai
 Mời team vào repo
 Vào GitHub → Settings → Collaborators
 Add email hoặc username GitHub của từng thành viên.
