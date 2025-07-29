@@ -4,16 +4,18 @@ Workflow for team project using github
 ## 1. Chuẩn bị môi trường
 - Tạo repo Git
 - Cấu trúc thư mục:
+``` yami
 project-name/
-├── .vscode/
-├── docs/
-├── src/
-├── tests/
-├── .gitignore
-├── requirements.txt / package.json
-├── README.md
-└── CONTRIBUTING.md
-
+├── .vscode/              
+├── docs/                 
+├── src/                  
+├── tests/                
+├── venv/                 
+├── .gitignore            
+├── requirements.txt      
+├── README.md             
+└── CONTRIBUTING.md  
+```
 
 ## 2. Git Workflow
 Nhánh chính:
